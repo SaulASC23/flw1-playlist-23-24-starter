@@ -1,7 +1,17 @@
+body{
+  font-family: 'Times New Roman';
+  background-color: gray;
+}
 h1 {
     text-align: center;
+    font-family: 'Times New Roman';
   }
-  
+.add-input{
+  border-radius: 15%;
+}
+.box{
+  border-radius: 8%;
+}
   .display {
     display: flex;
     justify-content: center;
