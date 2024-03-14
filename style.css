@@ -74,3 +74,9 @@ h1 {
     font-size: 14px;
     padding: 5px 10px;
   }
+  .removeFalse{
+    background-color: green;
+  }
+removeTrue{
+  background-color: red;
+}
